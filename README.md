@@ -3,7 +3,7 @@ This is an example project that uses the Git [GitHub Maven Plugins](https://gith
 See the [POM file](https://github.com/kevinsawicki/github-maven-example/blob/master/example/pom.xml)
 for how the downloads plugin and site plugin are configured.
 
-# Getting started with me
+# Getting started with me Hello
 
 * Fork this project
 * Update the `pom.xml` file `<url>` element to be the address of your fork
